@@ -10,5 +10,5 @@
 
 ## 環境構築
 - https://qiita.com/nabehide/items/097553ccd51543ee31fb
-
+- anacondaのPATHの通し方(https://timappleblog.com/2019path-anaconda/)
 2021.06.15 Koki Ishizuka
